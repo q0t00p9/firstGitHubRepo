@@ -1,3 +1,3 @@
-# In this repository I will document how to deploy a Wordpress web app on an AWS EC2 instance
+# In this repository I will document some small projects that I learned along the way
 
-## First, we need to create a VPC with a subnet in which our EC2 instance can be provisioned.
+## First, the most basic project is to deploy a Wordpress web app on an AWS EC2 instance
